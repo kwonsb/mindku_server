@@ -1,0 +1,8 @@
+.idea
+db.sqlite3
+*.pyc
+config/__pycache__
+logs
+plants_local.sh
+secrets.json
+venv
